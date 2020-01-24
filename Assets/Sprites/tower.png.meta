@@ -1,0 +1,1699 @@
+fileFormatVersion: 2
+guid: 973a168e443f78a43bb63e57c12a6deb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6304826840174917774
+    second: tower_0
+  - first:
+      213: 6156901781275099173
+    second: tower_1
+  - first:
+      213: 4625833658082079308
+    second: tower_2
+  - first:
+      213: -7577164617122143832
+    second: tower_3
+  - first:
+      213: -6654274059127827711
+    second: tower_4
+  - first:
+      213: -7308512354818369184
+    second: tower_5
+  - first:
+      213: -8082108663505521789
+    second: tower_6
+  - first:
+      213: -2670911830488086266
+    second: tower_7
+  - first:
+      213: 1563938865286940623
+    second: tower_8
+  - first:
+      213: -3377588477382197140
+    second: tower_9
+  - first:
+      213: -5036159347101837160
+    second: tower_10
+  - first:
+      213: -2738006986957162725
+    second: tower_11
+  - first:
+      213: -7434226952023802429
+    second: tower_12
+  - first:
+      213: 5464582102072492579
+    second: tower_13
+  - first:
+      213: -5090161989333579182
+    second: tower_14
+  - first:
+      213: -2808299130844235429
+    second: tower_15
+  - first:
+      213: 2352096420628335754
+    second: tower_16
+  - first:
+      213: 8169612452012051181
+    second: tower_17
+  - first:
+      213: -6629746990847456009
+    second: tower_18
+  - first:
+      213: -714592507013538468
+    second: tower_19
+  - first:
+      213: -782430147291612745
+    second: tower_20
+  - first:
+      213: -4234283849339767829
+    second: tower_21
+  - first:
+      213: 2902631449436473863
+    second: tower_22
+  - first:
+      213: 5882470949310267021
+    second: tower_23
+  - first:
+      213: 8454396959361900603
+    second: tower_24
+  - first:
+      213: -2184895470156296717
+    second: tower_25
+  - first:
+      213: -1449190841162898658
+    second: tower_26
+  - first:
+      213: -7877826892814322386
+    second: tower_27
+  - first:
+      213: 2151062782784713466
+    second: tower_28
+  - first:
+      213: -4936918680673950302
+    second: tower_29
+  - first:
+      213: 158586446192513156
+    second: tower_30
+  - first:
+      213: -2575819465954785045
+    second: tower_31
+  - first:
+      213: 6595878098626564719
+    second: tower_32
+  - first:
+      213: -9103102002618377724
+    second: tower_33
+  - first:
+      213: -8593793085692690118
+    second: tower_34
+  - first:
+      213: 2892422897781013602
+    second: tower_35
+  - first:
+      213: 6603988908407499885
+    second: tower_36
+  - first:
+      213: -1416342747535910953
+    second: tower_37
+  - first:
+      213: -4366810484538516984
+    second: tower_38
+  - first:
+      213: 8627966123837822982
+    second: tower_39
+  - first:
+      213: -7806956195345873653
+    second: tower_40
+  - first:
+      213: -1542098966633653652
+    second: tower_41
+  - first:
+      213: 5063446393925560759
+    second: tower_42
+  - first:
+      213: -1470741345094729180
+    second: tower_43
+  - first:
+      213: -7312776122571522834
+    second: tower_44
+  - first:
+      213: -4194399891794677851
+    second: tower_45
+  - first:
+      213: -6011037419310987756
+    second: tower_46
+  - first:
+      213: 8116415099270905992
+    second: tower_47
+  - first:
+      213: -8427482390549470562
+    second: tower_48
+  - first:
+      213: 4457213904550253182
+    second: tower_49
+  - first:
+      213: -8209152942345627227
+    second: tower_50
+  - first:
+      213: -4062553852836638321
+    second: tower_51
+  - first:
+      213: -135707636276829308
+    second: tower_52
+  - first:
+      213: 6993169301701708422
+    second: tower_53
+  - first:
+      213: -589879648258790032
+    second: tower_54
+  - first:
+      213: 5888395796182790088
+    second: tower_55
+  - first:
+      213: 1193885515139810509
+    second: tower_56
+  - first:
+      213: -522373409809359471
+    second: tower_57
+  - first:
+      213: 2253077084280402749
+    second: tower_58
+  - first:
+      213: 9083809973968336947
+    second: tower_59
+  - first:
+      213: -3907264421166758890
+    second: tower_60
+  - first:
+      213: 1325965077007147848
+    second: tower_61
+  - first:
+      213: -4762989133701248355
+    second: tower_62
+  - first:
+      213: 5360639640184472087
+    second: tower_63
+  - first:
+      213: -2454197790224047832
+    second: tower_64
+  - first:
+      213: 3841526445634669427
+    second: tower_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 298
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1a000d84ddea4db02fda511171d22
+      internalID: 6304826840174917774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 303
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a63f3059237ea45bf974560603861f
+      internalID: 6156901781275099173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 309
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150728583bdd9a64f8bc0570356bbf53
+      internalID: 4625833658082079308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 312
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11d1a0f67069434fa55c8d8fc6484ef
+      internalID: -7577164617122143832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 316
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63693e5785f17c1459c2f976daae4563
+      internalID: -6654274059127827711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 333
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c114c83d51675a244861d8e260fbf682
+      internalID: -7308512354818369184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 330
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d782301735e224eb495ac5ea483a89
+      internalID: -8082108663505521789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 328
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59758b99c50ef4f8d6fcf6bcb1503e
+      internalID: -2670911830488086266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 325
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31622b99c22b0bd4cb37cd45e8703a4d
+      internalID: 1563938865286940623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 322
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ce5a4d778f74a4fad4c7f1a00cf70a
+      internalID: -3377588477382197140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 289
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c412b483db0ea4046b7ffe088efa9afd
+      internalID: -5036159347101837160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 293
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31481e4be691c14684b0e0310fea81d
+      internalID: -2738006986957162725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 268
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880907c34719c54abcaffa1dca40ce0
+      internalID: -7434226952023802429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 272
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442809240745e442a4cdd19bf74df3f
+      internalID: 5464582102072492579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 278
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6772abdc0cfa9c54e9b63b25566fedeb
+      internalID: -5090161989333579182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 303
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94c03ce0e8c1a46b9979560b06ccc2
+      internalID: -2808299130844235429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 303
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade497ef6ce303f4a8ecd1c056633a05
+      internalID: 2352096420628335754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 303
+        width: 43
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e959738c3a164b801facbc1eddb84
+      internalID: 8169612452012051181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 303
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f122da56c16fadb4781ad8f9b48b5e3a
+      internalID: -6629746990847456009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 303
+        width: 30
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0d409c7abcfe4d91f08b87e35c5ce
+      internalID: -714592507013538468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 303
+        width: 8
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0ce92f67278b47b50d874b49e727e
+      internalID: -782430147291612745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 303
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d5be45e7e0d95438a3efbd0c736fe0
+      internalID: -4234283849339767829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 303
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31d1067efbb4343a68009acf66486d
+      internalID: 2902631449436473863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 303
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085369e6e9d21c41880bde85779b659
+      internalID: 5882470949310267021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 303
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc32880b5cdff445afc7123a3653514
+      internalID: 8454396959361900603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 303
+        width: 30
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d105d0d7b813408f4b12b1bde2907
+      internalID: -2184895470156296717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 256
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee974f94c170b3c49896da56001b17e2
+      internalID: -1449190841162898658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 259
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d088d53fea2142b1d36a97e6ef2c3
+      internalID: -7877826892814322386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 264
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d771164a39d348a4e0c476b3ecd90
+      internalID: 2151062782784713466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 77
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f8bf0a8a6566f4d985ca10fe7f2d85
+      internalID: -4936918680673950302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 180
+        width: 72
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c3322dce94850459ca161a0921410e
+      internalID: 158586446192513156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 83
+        width: 225
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b24a1481d1214c8af6ac71f66fe44
+      internalID: -2575819465954785045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 217
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210590c81d9af247bb5fbdff9784d65
+      internalID: 6595878098626564719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 217
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554e5182aae0304abff500a7f4c294e
+      internalID: -9103102002618377724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912f2134b1967f49b6650575d393115
+      internalID: -8593793085692690118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b0dd945bf7684ca605df43897f188
+      internalID: 2892422897781013602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 217
+        width: 15
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5eb282c0666b2468a410eeedc2081d
+      internalID: 6603988908407499885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 217
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e0c9debac2194184fb5738161532d
+      internalID: -1416342747535910953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 217
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f66432f3755ff48a1a04ea8aea6dd0
+      internalID: -4366810484538516984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 164
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fb927fbcd5f3b41b80528acd8febb3
+      internalID: 8627966123837822982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 163
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de18b724c8864d34c9212b1885aebedc
+      internalID: -7806956195345873653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6874b33eea5a464b8946f9f6984c533
+      internalID: -1542098966633653652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a022466a8197f48961ee736138ba69
+      internalID: 5063446393925560759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_43
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 82
+        width: 64
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8f3f34bcefd448bc4fee1c8c84a7c
+      internalID: -1470741345094729180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 126
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d2c11c0e35684884b912345352af6
+      internalID: -7312776122571522834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 126
+        width: 6
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e73adea7f58847ad6cf5598f08598
+      internalID: -4194399891794677851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f5351d9f24814196907d66d400c7b
+      internalID: -6011037419310987756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f043f8efaa20a4ca3c1998c98dff2b
+      internalID: 8116415099270905992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 82
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16faba8e64d02334199b1b384c6c6089
+      internalID: -8427482390549470562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 126
+        width: 6
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414cec6f058a5249bf25197c779f226
+      internalID: 4457213904550253182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 126
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8f0f26a9e6f941bf876371ce2e9a8
+      internalID: -8209152942345627227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 74
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a057d5f7f8e9c41b816f4980e2b1f3
+      internalID: -4062553852836638321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 74
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59367273979ab0c44983d559a2000d69
+      internalID: -135707636276829308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0380eb5ae3893d041adee75ef9258345
+      internalID: 6993169301701708422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584ed69193d08fb46884217e48d663ce
+      internalID: -589879648258790032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a0133d3a397042b00e32687a21e83
+      internalID: 5888395796182790088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 50
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6cdd4fd8eee974cbe96b89b277ab37
+      internalID: 1193885515139810509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 53
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e620b5b5a0434408311b17487a6dc2
+      internalID: -522373409809359471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_58
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 53
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999c8113055a1340b41b8f4131d5a93
+      internalID: 2253077084280402749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_59
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 53
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be9830728db23498b51967e04f8643
+      internalID: 9083809973968336947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_60
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 53
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5420660ed0904024ebe077741ef77c5e
+      internalID: -3907264421166758890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 53
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a516cc87055184cb8b9d50673eb6ab
+      internalID: 1325965077007147848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_62
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 53
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17befe51cb223e4889d5a0af3541d3b
+      internalID: -4762989133701248355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_63
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 53
+        width: 23
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba238c972844f5f47a67574d28510283
+      internalID: 5360639640184472087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_64
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 53
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93692991143123c489a14263dbc2b787
+      internalID: -2454197790224047832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_65
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 53
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b25f68cbd1a2d4d9b8269ae16297e6
+      internalID: 3841526445634669427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
